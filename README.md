@@ -4,7 +4,9 @@ Welcome to the **React Price Card Component** project! This repository contains 
 
 ## 🌟 Project Overview
 
-The **React Price Card Component** offers a good and modern design, ensuring that your pricing tables are not only functional but also visually appealing. Key features include:
+The **React Price Card Component** offers a good and modern design, ensuring that your pricing tables are not only functional but also visually appealing. 
+
+## Key features include:
 
 - **🎨 Customizable**: Easily change colors, fonts, and layout to fit your branding.
 - **🔄 Reusable Components**: Modular design allows for easy reuse across different parts of your application.
